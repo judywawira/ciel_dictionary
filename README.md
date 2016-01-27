@@ -1,5 +1,5 @@
 # CIEL dictionary
-This repo serves as a way to track issues related to use of CIEL dictionary. Please create an issue for a question or problem that you are experiencing 
+This repo serves as a way to track issues related to use of CIEL dictionary for people working on informatics projects beyond OpenMRS. Please create an issue for a question or problem that you are experiencing 
 
 ##About 
 ### BACKGROUND
